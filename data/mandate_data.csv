@@ -1,11 +1,21 @@
 Country Code,Country Name,Year,Status_B2B,Status_B2G,Model_Type,Platform_Name,Notes
 ITA,Italy,2019,Mandatory,Mandatory,Clearance,SDI,First EU country to mandate B2B.
-FRA,France,2026,Mandatory,Mandatory,Hybrid,PPF / PDP,Delayed from 2024.
-POL,Poland,2026,Mandatory,Mandatory,Clearance,KSeF,Delayed.
-BRA,Brazil,2008,Mandatory,Mandatory,Clearance,NF-e,Early adopter.
-DEU,Germany,2025,Optional,Mandatory,Post-Audit,N/A,B2B starting with e-reporting.
+FRA,France,2026,Mandatory,Mandatory,Hybrid,PPF / PDP,Delayed from 2024 to Sept 2026.
+POL,Poland,2026,Mandatory,Mandatory,Clearance,KSeF,Delayed to Feb/April 2026.
+DEU,Germany,2025,Optional,Mandatory,Post-Audit,ZUGFeRD,Receive mandatory Jan 2025; Send Jan 2027.
+ROU,Romania,2024,Mandatory,Mandatory,Clearance,RO e-Factura,Live since Jan 2024.
+BEL,Belgium,2026,Mandatory,Mandatory,Peppol,Peppol,Starts Jan 2026.
+ESP,Spain,2026,Mandatory,Mandatory,Post-Audit,VeriFactu,Expected start 2026.
+GRC,Greece,2021,Mandatory,Mandatory,Clearance,MyDATA,Mandatory B2B since Nov 2021.
+DNK,Denmark,2026,Mandatory,Mandatory,Post-Audit,NemHandel,Phased from Jan 2026.
+BRA,Brazil,2008,Mandatory,Mandatory,Clearance,NF-e,Mature market.
+MEX,Mexico,2014,Mandatory,Mandatory,Clearance,CFDI,Mandatory since 2014.
+CHL,Chile,2018,Mandatory,Mandatory,Clearance,DTE,Mandatory for all since 2018.
+COL,Colombia,2020,Mandatory,Mandatory,Clearance,RADIAN,Mandatory.
+PER,Peru,2018,Mandatory,Mandatory,Clearance,OSE,Mandatory.
 SAU,Saudi Arabia,2021,Mandatory,Mandatory,Clearance,Fatoora,Phased implementation.
-ESP,Spain,2025,Mandatory,Mandatory,Post-Audit,VeriFactu,B2B mandate upcoming.
-MEX,Mexico,2011,Mandatory,Mandatory,Clearance,CFDI,Mature market.
-CHL,Chile,2003,Mandatory,Mandatory,Clearance,DTE,Pioneer in LatAm.
-JPN,Japan,2023,Optional,Optional,Peppol,Peppol,Qualified Invoice System.
+MYS,Malaysia,2024,Mandatory,Mandatory,Clearance,MyInvois,Phased start Aug 2024.
+IND,India,2020,Mandatory,Mandatory,Clearance,GST System,Phased for large taxpayers.
+JPN,Japan,2023,Optional,Optional,Peppol,Peppol,Qualified Invoice System Oct 2023.
+SGP,Singapore,2025,Optional,Mandatory,Peppol,InvoiceNow,Soft mandate May 2025.
+TUR,Turkey,2014,Mandatory,Mandatory,Clearance,GIB,Early adopter.

@@ -8,14 +8,49 @@ BEL,Belgium,2026,Mandatory,Mandatory,Peppol,Peppol,Starts Jan 2026.
 ESP,Spain,2026,Mandatory,Mandatory,Post-Audit,VeriFactu,Expected start 2026.
 GRC,Greece,2021,Mandatory,Mandatory,Clearance,MyDATA,Mandatory B2B since Nov 2021.
 DNK,Denmark,2026,Mandatory,Mandatory,Post-Audit,NemHandel,Phased from Jan 2026.
+HRV,Croatia,2026,Mandatory,Mandatory,Clearance,eRačun,Expected Jan 2026.
+SRB,Serbia,2023,Mandatory,Mandatory,Clearance,SEF,Mandatory since Jan 2023.
+SVK,Slovakia,2026,Upcoming,Mandatory,Clearance,IS EFA,Expected B2B in 2026.
+PRT,Portugal,2025,Mandatory,Mandatory,SAF-T,SAF-T,Certified software required.
+HUN,Hungary,2018,Mandatory,Mandatory,RTIR,Online Számla,Real-time reporting since 2018.
 BRA,Brazil,2008,Mandatory,Mandatory,Clearance,NF-e,Mature market.
 MEX,Mexico,2014,Mandatory,Mandatory,Clearance,CFDI,Mandatory since 2014.
 CHL,Chile,2018,Mandatory,Mandatory,Clearance,DTE,Mandatory for all since 2018.
 COL,Colombia,2020,Mandatory,Mandatory,Clearance,RADIAN,Mandatory.
 PER,Peru,2018,Mandatory,Mandatory,Clearance,OSE,Mandatory.
+ARG,Argentina,2019,Mandatory,Mandatory,Clearance,AFIP,Mandatory since 2019.
+CRI,Costa Rica,2018,Mandatory,Mandatory,Clearance,ATV,Mandatory since 2018.
+URY,Uruguay,2025,Mandatory,Mandatory,Clearance,CFE,Phased completion 2025.
+PRY,Paraguay,2024,Mandatory,Mandatory,Clearance,SIFEN,Phased 2024-2025.
+ECU,Ecuador,2024,Mandatory,Mandatory,Clearance,SRI,Mandatory.
 SAU,Saudi Arabia,2021,Mandatory,Mandatory,Clearance,Fatoora,Phased implementation.
 MYS,Malaysia,2024,Mandatory,Mandatory,Clearance,MyInvois,Phased start Aug 2024.
 IND,India,2020,Mandatory,Mandatory,Clearance,GST System,Phased for large taxpayers.
 JPN,Japan,2023,Optional,Optional,Peppol,Peppol,Qualified Invoice System Oct 2023.
 SGP,Singapore,2025,Optional,Mandatory,Peppol,InvoiceNow,Soft mandate May 2025.
+IDN,Indonesia,2016,Mandatory,Mandatory,Clearance,e-Faktur,Mandatory since 2016.
+KOR,South Korea,2011,Mandatory,Mandatory,Clearance,e-Tax,Mandatory since 2011.
+PHL,Philippines,2024,Mandatory,Mandatory,Clearance,EIS,Phased rollout.
+VNM,Vietnam,2022,Mandatory,Mandatory,Clearance,GDT,Mandatory since July 2022.
+CHN,China,2025,Mandatory,Mandatory,Clearance,Golden Tax IV,Fully Digitized E-Invoice pilot.
+EGY,Egypt,2023,Mandatory,Mandatory,Clearance,Invoicing Portal,Mandatory B2B since 2023.
+NGA,Nigeria,2025,Mandatory,Mandatory,Clearance,FIRS,Phased B2B starting 2025.
+KEN,Kenya,2024,Mandatory,Mandatory,Clearance,eTIMS,Mandatory since 2024.
+ZMB,Zambia,2024,Mandatory,Mandatory,Clearance,Smart Invoice,Mandatory since 2024.
 TUR,Turkey,2014,Mandatory,Mandatory,Clearance,GIB,Early adopter.
+USA,United States,2030,No Mandate,Optional,Market-driven,DBNAlliance,No federal mandate.
+GBR,United Kingdom,2030,No Mandate,Mandatory,Post-Audit,N/A,Mandatory B2G (NHS).
+AUS,Australia,2030,No Mandate,Mandatory,Peppol,Peppol,B2G mandates in some states.
+NZL,New Zealand,2030,No Mandate,Mandatory,Peppol,Peppol,B2G mandates.
+CAN,Canada,2030,No Mandate,Optional,Market-driven,N/A,Monitoring.
+ISR,Israel,2024,Mandatory,Mandatory,Clearance,ITA,Phased B2B starting 2024.
+ARE,UAE,2026,Mandatory,Mandatory,Peppol,E-Billing,Mandatory B2B starting July 2026.
+OMN,Oman,2024,Mandatory,Mandatory,Clearance,Tax Authority,Mandatory Oct 2024.
+JOR,Jordan,2023,Mandatory,Mandatory,Clearance,ISTD,Mandatory.
+KAZ,Kazakhstan,2019,Mandatory,Mandatory,Clearance,IS ESF,Mandatory.
+UZB,Uzbekistan,2020,Mandatory,Mandatory,Clearance,Soliq,Mandatory.
+ALB,Albania,2021,Mandatory,Mandatory,Clearance,CIS,Mandatory.
+GHA,Ghana,2022,Mandatory,Mandatory,Clearance,GRA,Mandatory.
+DOM,Dominican Republic,2020,Mandatory,Mandatory,Clearance,DGII,Mandatory.
+BOL,Bolivia,2022,Mandatory,Mandatory,Clearance,SIAT,Mandatory.
+GTM,Guatemala,2021,Mandatory,Mandatory,Clearance,FEL,Mandatory.

@@ -62,4 +62,5 @@
     *   E-invoicing Exchange Summit
 
 ## Recommended Data Maintenance
+Maintained by Nicolai Tufar.
 Since regulations change frequently (delays are common), this static dataset should be reviewed quarterly against major consultancy updates.

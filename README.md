@@ -42,3 +42,6 @@ To run this application locally:
 ## Deployment
 This application is designed to be deployed on **Streamlit Community Cloud**.
 Simply connect your GitHub repository to Streamlit Cloud to deploy.
+
+---
+Created by Nicolai Tufar.

@@ -1,0 +1,11 @@
+Country Code,Country Name,Year,Status_B2B,Status_B2G,Model_Type,Platform_Name,Notes
+ITA,Italy,2019,Mandatory,Mandatory,Clearance,SDI,First EU country to mandate B2B.
+FRA,France,2026,Mandatory,Mandatory,Hybrid,PPF / PDP,Delayed from 2024.
+POL,Poland,2026,Mandatory,Mandatory,Clearance,KSeF,Delayed.
+BRA,Brazil,2008,Mandatory,Mandatory,Clearance,NF-e,Early adopter.
+DEU,Germany,2025,Optional,Mandatory,Post-Audit,N/A,B2B starting with e-reporting.
+SAU,Saudi Arabia,2021,Mandatory,Mandatory,Clearance,Fatoora,Phased implementation.
+ESP,Spain,2025,Mandatory,Mandatory,Post-Audit,VeriFactu,B2B mandate upcoming.
+MEX,Mexico,2011,Mandatory,Mandatory,Clearance,CFDI,Mature market.
+CHL,Chile,2003,Mandatory,Mandatory,Clearance,DTE,Pioneer in LatAm.
+JPN,Japan,2023,Optional,Optional,Peppol,Peppol,Qualified Invoice System.
